@@ -1,0 +1,25 @@
+body {
+    background-color: #efefef;
+}
+
+h1 {
+    color: red;
+    font-weight: normal;
+}
+
+.res {
+    padding: 5px;
+}
+
+.res-name {
+    color: green;
+    font-weight: bold;
+}
+
+.res-body {
+    margin-left: 40px;
+}
+
+.form-box {
+    padding-top: 10px;
+}
